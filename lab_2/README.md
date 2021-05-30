@@ -38,7 +38,6 @@ v.	Побудувати доповнення (обернений) графа G.
 * ![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_2/1.2.png)
 
 0, 0, 0, 0, 1, 0, 0, 
-
 0, 0, 0, 1, 1, 0, 0, 
 
 0, 0, 0, 0, 1, 1, 1, 
