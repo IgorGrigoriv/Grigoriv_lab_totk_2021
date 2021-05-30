@@ -11,7 +11,7 @@
 
 ### Виконання роботи
 #### 1. Записати (придумати) матрицю суміжності орієнтованого графа G={7,12}. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
-![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_2/1.1.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_2/1.11.png)
 
 0, 1, 1, 1, 0, 1, 1,  
 1, 0, 1, 0, 0, 1, 1,  
