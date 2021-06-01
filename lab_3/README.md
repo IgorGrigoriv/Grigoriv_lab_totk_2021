@@ -69,9 +69,9 @@ iv.	Визначити кількість хвиль, які пройдуть п
 v.	Побудувати дерево за алгоритмом обходу в глибину (DFS);
 * Порядок обходу: 0 1 2 3 4 5
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.13.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/3_2.png)
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.14.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/3_3.png)
 
 #### 3.	Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9}.
 
