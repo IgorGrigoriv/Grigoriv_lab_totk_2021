@@ -14,7 +14,7 @@
 
 ![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_4/1.png)
 
-![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_4/2.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_4/2_1.png)
 
 
 
