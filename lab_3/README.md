@@ -5,19 +5,19 @@
 ---
 ## Мета роботи: *Навчитись застосовувати алгоритми обходу графів, побудови дерева шляхів та мінімального зв’язного дерева.*
 
-### Виконав: студент групи *ТР-32* Сало О.I
+### Виконав: студент групи *ТР-32* Григорів І.І.
 ### Прийняв: викладач Бугиль Б.А.
 ---
 
 ### Виконання роботи
 #### 1.	За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={8,12}:
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.1.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1.1.png)
 
 i.	Побудувати дерево за алгоритмом обходу в ширину (BFS); (для 2-х різних вершин)
-* Для вершини 0 порядок обходу: 0 1 2 6 4 5 7 3
+* Для вершини 0 порядок обходу: 0 1 5 6 2 4 7 3
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.2.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1.2.png)
 
 ![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.3.png)
 
