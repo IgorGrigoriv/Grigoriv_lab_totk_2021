@@ -37,14 +37,14 @@ iii.	Побудувати дерево за алгоритмом обходу в
 
 ![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/2_2.png)
 
-* Для вершини 6 порядок обходу: 6 1 0 2 4 3 7 5
+* Для вершини 6 порядок обходу: 6 2 0 1 3 4 5 7
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.8.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/2_3.png)
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.9.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/2_4.png)
 
 iv.	Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому?
-* Ні, тому що у другому графі вершина 4 у своєму подальшому послідовному корені вершин 3-7 потрапила у глухий кут і їй довелось вернутись, так як ще одна вершина не була знайдена.
+* Так.
 
 #### 2.	За допомогою лабораторного макету побудувати випадковий орієнтований граф G={6,10}:
 
