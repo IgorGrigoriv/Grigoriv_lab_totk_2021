@@ -19,13 +19,13 @@ i.	Побудувати дерево за алгоритмом обходу в �
 
 ![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_2.png)
 
-![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_3.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_3.1.png)
 
-* Для вершини 5 порядок обходу: 5 2 4 0 6 7 3 1
+* Для вершини 5 порядок обходу: 5 4 6 7 3 2 0 1
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.4.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_4.png)
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.5.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_5.png)
 
 ii.	Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому?
 * Так, тому що на виході із вершини 0 і 5 корінь в обох має по дві вершини.
