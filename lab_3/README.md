@@ -12,14 +12,14 @@
 ### Виконання роботи
 #### 1.	За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={8,12}:
 
-![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1.1.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_1.png)
 
 i.	Побудувати дерево за алгоритмом обходу в ширину (BFS); (для 2-х різних вершин)
-* Для вершини 0 порядок обходу: 0 1 5 6 2 4 7 3
+* Для вершини 0 порядок обходу: 0 1 2 7 3 6 4 5
 
-![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1.2.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_2.png)
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.3.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/1_3.png)
 
 * Для вершини 5 порядок обходу: 5 2 4 0 6 7 3 1
 
