@@ -75,17 +75,17 @@ v.	Побудувати дерево за алгоритмом обходу в �
 
 #### 3.	Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9}.
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.15.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/4_1.png)
 
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.16.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/4_2.png)
 
 
 #### 4.	Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу.
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.%234.1.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/4_3.png)
 
 
-![image](https://github.com/OlegSalo/Salo_lab_totk_2021/blob/main/lab_3/3.17.png)
+![image](https://github.com/IgorGrigoriv/Grigoriv_lab_totk_2021/blob/main/lab_3/4_4.png)
 
 * Вага: 5+7+9+3+5=29
